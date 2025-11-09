@@ -5,10 +5,8 @@
   Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
 
   ---
-# 🛡️ License
+🏳️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-# 🌟 About Me
-Hi there! I'm Baraa Khatib Salkini, also known as Data With Baraa. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
+🔖 About Me
+Hi there! I'm Houssem Gharbi, i'm a Junior Data Engineer passionate about building scalable data solutions and deriving actionable insights. I enjoy transforming raw data into meaningful stories that drive decision-making. This project reflects my skills and interest in creating efficient data pipelines and analytics platforms.
